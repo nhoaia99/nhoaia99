@@ -1,10 +1,9 @@
-<p style="display: flex; align-items: center;">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=monsterat&weight=200&duration=2000&pause=1000&color=31F728&width=300&height=35&lines=Hi%2C+I'm+Nguy%E1%BB%85n+L%C3%AA+Gia+B%E1%BA%A3o+" alt="Typing SVG" /></a>
-  <img src="header.svg" style="width: 10%;" alt="Click to see the source">
-</p>
+<h1 align="center">Hi 👋, I'm Nguyễn Hoài An</h1>
 
-# 
-Nguyễn Hoài An
+![Profile views](https://komarev.com/ghpvc/?username=nhoaia99&label=Profile%20views&color=brightgreen&style=flat)
+![Followers](https://img.shields.io/github/followers/nhoaia99?label=Followers&style=social)
+![Stars](https://img.shields.io/github/stars/nhoaia99?label=Stars&style=social)
+
 <p align="justify">I'm a passionate software engineer from Vietnam, dedicated to continuous learning and growth. I specialize in [mention your key skills or technologies, e.g., JavaScript, React, and Node.js], and I enjoy working on innovative projects that solve real-world problems.</p>
 <img align="right" width="25%" alt="Youtube" title="Youtube" src="https://gifdb.com/images/high/green-static-background-hacking-zxdixjwjemrjnoen.gif"/>
 <p align="left">
