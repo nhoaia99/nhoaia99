@@ -7,8 +7,6 @@
 <p align="justify">I'm a passionate software engineer from Vietnam, dedicated to continuous learning and growth. I specialize in [mention your key skills or technologies, e.g., JavaScript, React, and Node.js], and I enjoy working on innovative projects that solve real-world problems.</p>
 <img align="right" width="25%" alt="Youtube" title="Youtube" src="https://gifdb.com/images/high/green-static-background-hacking-zxdixjwjemrjnoen.gif"/>
 <p align="left">
-🧑 Gender : Male.</br>
-👨‍🎓 Studying Sofware Engineering at Industrial University of Ho Chi Minh City (IUH).</br>
 👨‍💻 Occupation: undergraduate (Senior student).
 </p>
 
